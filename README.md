@@ -1,6 +1,9 @@
 # Spellisde
 **Witchjam 2026** | **Unreal Engine 5.6** | **3D Action Game**
 
+[![Download Game Build](https://img.shields.io/badge/Download-MEGA-red?style=for-the-badge)](https://mega.nz/folder/qtwxnDSY#h1tAJ5ScUSkt004hUkA2LQ)
+
+
 ---
 
 ## About the Game
@@ -19,7 +22,7 @@ I was responsible for designing and building the game's environments, focusing o
 *Level 1. Editor view. This level presents a journey from a forest and mountain setting to a sanctuary where the boss battle takes place.*
 
 ![level 2](/screenshots/level_2.jpeg)
-*Level 2. Editor view. The level takes you on a journey up a mountain, after which you jump down into a valley where the boss awaits*
+*Level 2. Editor view. The level takes you on a journey up a mountain, after which you jump down into a valley where the boss awaits.*
 
 ### 2. Performance Optimization
 To ensure smooth gameplay, I implemented several key optimization passes across the levels, significantly reducing CPU and GPU overhead:
@@ -31,10 +34,12 @@ To ensure smooth gameplay, I implemented several key optimization passes across 
 ### 3. Gameplay Systems (Ice & Lava)
 I programmed the player's reactions to ice and fire effects, as well as how objects behave when hit by a specific spell.
 
-**Ice Surface Mechanics:**
+**Ice Surface Mechanics**
+
 ![ice mechanic](/screenshots/ice.gif)
 
-**Lava Surface Mechanics:**
+**Lava Surface Mechanics**
+
 ![lava mechanic](/screenshots/fire.gif)
 
 **Blueprint:**
