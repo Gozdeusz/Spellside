@@ -1,4 +1,4 @@
-# Spellisde
+# Spelliside
 **Witchjam 2026** | **Unreal Engine 5.6** | **3D Action Game**
 
 [![Download Game Build](https://img.shields.io/badge/Download-MEGA-red?style=for-the-badge)](https://mega.nz/folder/qtwxnDSY#h1tAJ5ScUSkt004hUkA2LQ)
